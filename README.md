@@ -1,7 +1,7 @@
 # Model-Warna-pada-citra
 Pengujian Model Warna Pada citra
 ```python
-# Image Processing Techniques on Google Colab
+# Image Processing Techniques on Google Colab 
 
 from google.colab import files
 import cv2
